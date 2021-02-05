@@ -1,0 +1,4 @@
+first git file
+next line added
+
+another line added
